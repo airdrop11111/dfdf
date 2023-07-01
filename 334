@@ -9,6 +9,5 @@
 	"devDependencies": {
 		"rollup": "^3.20.2",
 		"rollup-plugin-serve": "^2.0.2",
-		"svelte": "workspace:*"
 	}
 }
